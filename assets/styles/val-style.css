@@ -241,4 +241,6 @@ color: 	#F26539;
 
 
 @media (max-width: 1200px){
+.col-lg-offset-3 {
+}
 }
